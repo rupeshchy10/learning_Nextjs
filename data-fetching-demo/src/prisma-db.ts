@@ -29,7 +29,7 @@ export async function getProducts(query?: string) {
       },
     });
   }
-  return prisma.product.findMany();
+  return prisma.product.findMany(); //if query does not exist then return full list of products
 }
 
 export async function getProduct(id: number) {
