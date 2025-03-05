@@ -12,3 +12,4 @@ Welcome to my Next.js learning journey! This repository is dedicated to track my
 - **Day 6:** Adding client-side components and theme provider; implement utility functions for client-side operations
 - **Day 7:** Set up Prisma schema and database migrations 
 - **Day 8:** Implement product management features and integrate search component 
+- **Day 9:** Set up authentication and configure middleware for route protection
